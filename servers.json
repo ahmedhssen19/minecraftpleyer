@@ -1,0 +1,16 @@
+{
+  "7732831889_1751412589038": {
+    "owner": 7732831889,
+    "ip": "c_ega.aternos.me",
+    "port": 20791,
+    "type": "bedrock",
+    "status": "stopped",
+    "created_at": "2025-07-01T23:29:49.038Z",
+    "bot_username": "SAFIOUR_Bot_nfxcl2",
+    "stats": {
+      "total_connections": 1,
+      "last_connection": "2025-07-01T23:29:52.303Z",
+      "uptime": 0
+    }
+  }
+}

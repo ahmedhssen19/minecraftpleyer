@@ -1,0 +1,61 @@
+{
+    "bot-account": {
+      "username": "H2N_BOT_1207",
+      "password": "",
+      "type": "offline"
+    },
+  
+    "server": {
+      "ip": "c_ega.aternos.me",
+      "port": 20791,
+      "version": "1.21.90"
+    },
+  
+    "position": {
+      "enabled": false,
+      "x": 0,
+      "y": 64,
+      "z": 0
+    },
+  
+    "utils": {
+      "auto-auth": {
+        "enabled": false,
+        "password": ""
+      },
+  
+      "anti-afk": {
+        "enabled": true,
+        "sneak": true,
+        "jump": true,
+        "rotate": true,
+        "hit": {
+          "enabled": false,
+          "delay": 5000,
+          "attack-mobs": false
+        },
+        "circle-walk": {
+          "enabled": false,
+          "radius": 3
+        }
+      },
+  
+      "chat-messages": {
+        "enabled": true,
+        "repeat": true,
+        "repeat-delay": 90,
+  
+        "messages": [
+          "مرحباً! أنا بوت Bedrock 🎮",
+          "يعمل البوت على الإصدار 1.21.90 📱",
+          "قناة اليوتيوب: H2N OFFICIAL 🎬",
+          "البوت يعمل بشكل مثالي! ⚡"
+        ]
+      },
+  
+      "chat-log": true,
+      "auto-reconnect": true,
+      "auto-reconnect-delay": 8000
+    }
+  }
+  
